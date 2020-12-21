@@ -1,6 +1,6 @@
 # Tutorials
 
-This repository contains examples of common data science problems and some solutions using state-of-the-art data science methods and algorithms.
+This repository is my personal library containing examples of common data science problems and some solutions using state-of-the-art data science methods and algorithms.
 
 * Recommender Systems (TODO)
 * Reinforcement Learning (TODO)
